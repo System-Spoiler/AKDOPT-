@@ -1,5 +1,5 @@
 {
-  "version": "v2.0.0",
+  "version": "v2.1.1",
   "codename": "Esports Pro 2026",
   "download_url": "https://raw.githubusercontent.com/System-Spoiler/AKDOPT-/main/AKD_Setup.exe",
   "changelog": "AKD OPTIMIZER PRO v2.0.0 RELEASE:\n• Zero Aim-Shake 1:1 linear curve\n• Dynamic Hotkeys (hotkeys.db) with Reset Defaults\n• Low-Level Global Keyboard Lock (Ctrl+L to Lock, Ctrl+U to Unlock)\n• Strict Numeric-Only Input Sanitization for all tweak & sensitivity fields\n• Dual Discord Webhook Telemetry (Launcher: AKD STUDIO TWEEKER | DLL: apt pro)\n• Zero UI Overlaps & DPI Scaling for 100%, 125%, 150%\n• 999 FPS Kernel Timer Resolution Lock",
