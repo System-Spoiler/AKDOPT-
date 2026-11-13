@@ -1,0 +1,9 @@
+{
+  "version": "v3.6.0",
+  "codename": "AKD PC SETTINGS AIM STUDIO PREMIUM EDITION v3.6",
+  "download_url": "https://raw.githubusercontent.com/System-Spoiler/AKDOPT-/main/AKD_Setup.exe",
+  "sha256": "04C0FD54426FE5435A31B690A2FE4671427EA7C86C959F83AF9F3D8A94AAEC88",
+  "exe_sha256": "03763749B63991EAEE0B9F6FBACDE60723C7D64A1CDDBF2B64C2813A6B849818",
+  "changelog": "=== AKD PC SETTINGS AIM STUDIO PREMIUM EDITION v3.6.0 ===\\n- Universal Page Header Tier Tagging: Prominent Glowing Tier Badge (★ VIP ACTIVE / ★ TRIAL / 🔒 LOCKED) displayed consistently across all tabs.\\n- Ultra Smooth Mouse Stabilizer UI: Shortened header, zero text collision, unhindered 60fps slider drag, and dedicated [⚡ APPLY STABILIZER] commit action.\\n- True Windows Services Filter: Dynamic Session 0 and OS service host exclusion completely hides background Windows services when unchecked.\\n- Multi-Process Hard RAM Limiting: Apply independent kernel memory clamps across multiple target apps with real-time Active Locked Processes card and 1-click release controls.\\n- Hardened Anti-Reverse Security: Tamper-resistant HMAC-SHA256 authenticated vault, anti-hook trampolines, and automated killswitch defenses.",
+  "min_version": "v1.0.0"
+}
