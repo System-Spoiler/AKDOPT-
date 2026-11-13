@@ -1,0 +1,8 @@
+{
+  "version": "v2.2.6",
+  "name": "AKD YT (PC AIM STUDIO) - v2.2.6 APEX ESPORTS RELEASE",
+  "url": "https://raw.githubusercontent.com/System-Spoiler/AKDOPT-/main/AKD_Setup.exe",
+  "sha256": "1090559c0dbe6cd36ec83eef7d5b2a71f9077272d73a268a7c1c1ada4f368867",
+  "changelog": "=== AKD YT (PC AIM STUDIO) - v2.2.6 APEX ESPORTS RELEASE ===\n- Studio-First Multiplier Engine (2x, 3x, 4x, 5x, 6x live scaling)\n- Removed Hardcoded F2 Key (100% Studio Controlled with Custom Key Binding or Disable Option)\n- Synchronized Version Architecture (Eliminated repeated update dialogs across all modules)\n- Dynamic Community Directory & Webhook (Shows Total VIP count, Online Active, and VIP roster)\n- Zero UCRT Crashes via MinHook x64 on standard and Ghost Spectre Windows\n- Bulletproof bluestacks.conf Protection with Automated Snapshots\n- Clean Uninstaller Engine Purges version.dll without leaving locked files",
+  "min_version": "v1.0.0"
+}
