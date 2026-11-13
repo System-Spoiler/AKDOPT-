@@ -1,0 +1,9 @@
+{
+  "version": "v3.3.0",
+  "codename": "AKD PC SETTINGS AIM STUDIO PREMIUM EDITION v3.3",
+  "download_url": "https://raw.githubusercontent.com/System-Spoiler/AKDOPT-/main/AKD_Setup.exe",
+  "sha256": "BEE6211BF7E792C244B93D1F75A1029F15EB500AF4E614928A5E55F95EB247B2",
+  "exe_sha256": "640A82A3C026C6A8C11F1A66FF7EAC9E1E84D1897A8131FEEFDD1D6346BF3670",
+  "changelog": "=== AKD PC SETTINGS AIM STUDIO PREMIUM EDITION v3.3.0 ===\\n- User Tier Tagging: Explicit VIP active tagging for Gist authorized users, countdown for active trials, and locked state.\\n- Instant Cloud Update Flash: Pulsating animated update alert banner and top bar notification upon new version broadcast.\\n- Super Smooth AKD AIM OPT: Upgraded anti-tremor smoothing curve and progressive anti-jitter damping for pixel-precise crosshair stability.\\n- Real-Time RAM Monitor & Dynamic Process Limiter: Working set memory ceiling limiter with continuous background watcher and 1-click standby purge.\\n- Background System Tray Integration: Minimize-to-tray background daemon maintaining active RAM limits and high-resolution timers.\\n- Clean Free Fire Config & Keymapping Auto-Reload: Removed redundant tabs, added intelligent emulator reload prompt upon keymapping saves.\\n- CyberSlider UI Upgrade: High-contrast glowing gradient pill sliders with dynamic thumb tracking.\\n- 100% Genuine Windows AppX Debloater & Restorer: True PowerShell UWP removal and per-app instant restore.\\n- Windows Services Optimizer (Free Tier): 19 safe gaming services with individual toggles and critical kernel protection whitelist.\\n- Hardware Telemetry Dashboard: Real-time active processes, threads, handles, and memory utilization.\\n- Encrypted Persistent Vault: DPAPI encrypted storage for user tweaks with 1-click export and import backups.",
+  "min_version": "v1.0.0"
+}
