@@ -1,0 +1,8 @@
+{
+  "version": "v2.2.5",
+  "name": "AKD YT (PC AIM STUDIO) - v2.2.5 APEX ESPORTS RELEASE",
+  "url": "https://raw.githubusercontent.com/System-Spoiler/AKDOPT-/main/AKD_Setup.exe",
+  "sha256": "683f18a34686cc53e0205dcd3f531225c62f8945f370753fec08098c63bfe4a4",
+  "changelog": "=== AKD YT (PC AIM STUDIO) - v2.2.5 APEX ESPORTS RELEASE ===\n- True In-Process FPS Proxy Multiplier Engine (2x, 3x, 4x, 5x, 6x)\n- Zero-Crash UCRT Hooking via MinHook (100% OS & Lite/Spectre Windows Compatibility)\n- Removed Unwanted External Overlay Window / Meter (Clean Emulator Experience)\n- Full bluestacks.conf Protection (Automated State Preservation, Zero Tampering)\n- Clean Uninstallation Engine (Force-Purges version.dll from all emulator paths)\n- Live Multiplier GUI Sync with AKD_PC_SETTINGS & F2 Hotkey Support\n- Real-Time Dual-Tier Discord Webhook Telemetry",
+  "min_version": "v1.0.0"
+}
