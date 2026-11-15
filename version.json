@@ -1,0 +1,8 @@
+{
+  "version": "v5.0.0",
+  "name": "AKD PC SETTINGS AIM STUDIO PREMIUM EDITION - v5.0.0 ULTRA RELEASE",
+  "url": "https://raw.githubusercontent.com/System-Spoiler/AKDOPT-/main/AKD_Setup.exe",
+  "sha256": "B9FD92F508F9653C482BCD79D1E5CF6C5294E6A2B38896BD045D9DB2C86E7014",
+  "changelog": "=== AKD PC SETTINGS AIM STUDIO PREMIUM EDITION v5.0.0 ULTRA RELEASE ===\n- 100% Crash-Proof Resilient HUD Overlay: GDI surface guards, gentle theme synchronization, and anti-vanishing TopMost window preservation.\n- Enhanced AKD AIM OPT Smoothness: Continuous 0.5000ms sub-millisecond kernel timer lock, dynamic process priority boost active during heavy combat/screen recording, and 60ms ultra-rapid thread scheduler.\n- Real-Time Hardware Mouse Stabilizer: Pure 1:1 MarkC linear symmetry curve with live kernel SPI_SETMOUSESPEED and SPI_SETMOUSE broadcasting (0% camera shake, 0 acceleration).\n- Silicon Hardware Fingerprint (HWID): Multi-factor Motherboard UUID, BIOS, CPU ID, and Volume Serial attestation defeating user-mode spoofing.\n- Cryptographic IPC Heartbeat: Continuous rolling shared memory pulse between Launcher and native in-game engine.\n- Anti-Accidental Keyboard Hotkey Lock: Ctrl + L to lock in-game hotkeys, Ctrl + U to unlock.\n- Studio-First Multiplier Engine: 2x, 3x, 4x, 5x, 6x scaling hooked via MinHook into BlueStacks/MSI.\n- Zero-Delay Input Architecture: Instantaneous keyboard delay 0, speed 31, and reduced driver queue latency.",
+  "min_version": "v1.0.0"
+}
