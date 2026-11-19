@@ -1,0 +1,16 @@
+{
+  "version": "5.5.0",
+  "version_tag": "v5.5.0",
+  "release_date": "2026-11-19",
+  "mandatory": true,
+  "name": "AKD PC SETTINGS AIM STUDIO PREMIUM EDITION - v5.5.0 FINAL RELEASE",
+  "title": "AKD PC SETTINGS & AIM STUDIO v5.5.0 \u2014 FINAL ULTRA ZERO-LAG RELEASE",
+  "changelog": "=== AKD PC SETTINGS AIM STUDIO PREMIUM EDITION v5.5.0 FINAL ULTRA RELEASE ===\n- 100% Hotkey Reliability & Universal PC Support: Dual-layer low-level keyboard hook plus hardware async key state watchdog worker thread; hotkeys never silently drop or freeze on any Windows 10/11 machine.\n- Custom Hotkey Persistence & DLL Synchronization: Named keys (Home, PageUp, PageDown, F1-F12, etc.) and virtual keys bound in AKD AIM OPT immediately synchronize to the injected DLL and persist permanently across restarts.\n- Zero Screen-Recording & Screen-Sharing Jitter: Removed deprecated DwmEnableMMCSS and eliminated continuous desktop handle switches/timer invalidations in the HUD overlay; full ultra-smooth gameplay during OBS Studio, Discord, and streaming capture.\n- FPS Manager Deactivated by Default: Multiplier hotkeys (F2/F3/F4) are deactivated by default with live [\u25b6 ACTIVATE HOTKEYS] toggle and [PAUSED (DISABLED)] status chip to prevent accidental in-game activation.\n- Dynamic Mouse Sensitivity Preservation: Mouse pointer speed is dynamically preserved across all optimizer presets and stabilizers; cursor speed never automatically resets to 10.\n- Bi-Directional Profile Sync: C# UI and native in-game HUD overlay stay in 100% real-time synchronization.\n- Authenticode Signed & Obfuscated: All 6 executables and DLLs cryptographically signed with CN=AKD YT, O=AKD YT (PC AIM STUDIO), C=US.",
+  "download_url": "https://raw.githubusercontent.com/System-Spoiler/AKDOPT-/main/AKD_Setup.exe",
+  "standalone_url": "https://raw.githubusercontent.com/System-Spoiler/AKDOPT-/main/AKD_PC_SETTINGS.exe",
+  "setup_sha256": "2DF828510F068544AF807953EC60FB65EB7EAD124222769083C28DC1609B2FF4",
+  "standalone_sha256": "352B0DDDC5B27B896C79B96CAC7E87D602AD06218F847B91C25DE31BC2931868",
+  "sha256": "2DF828510F068544AF807953EC60FB65EB7EAD124222769083C28DC1609B2FF4",
+  "setup_size": 3237464,
+  "standalone_size": 1737304
+}
