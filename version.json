@@ -1,0 +1,27 @@
+{
+  "version": "5.6.0",
+  "version_tag": "v5.6.0",
+  "codename": "AKD AIM STUDIO ESPORTS ULTRA MASTER EDITION v5.6 - ZERO OVERLAP & SMOOTH SCROLL FINAL",
+  "release_date": "2026-11-21",
+  "min_supported_version": "1.0.0",
+  "mandatory": false,
+  "standalone_sha256": "A1E1D8DD4E7B955F165ABFF40AA15FA590456B6CE9208C352AF04D2E75C2224E",
+  "setup_sha256": "D21354D95C10DC5DC02248D5F3E70F54B71398B0082C2B990C1D5FB5209B6B59",
+  "components": {
+    "AKD_PC_SETTINGS.exe": "A1E1D8DD4E7B955F165ABFF40AA15FA590456B6CE9208C352AF04D2E75C2224E",
+    "AKD_Setup.exe": "D21354D95C10DC5DC02248D5F3E70F54B71398B0082C2B990C1D5FB5209B6B59",
+    "AKD.dll": "5E75839B7117118C1E5520F10AFE05C161AA6D9C6625DBC02D803FC0D03DA127",
+    "AKD_x86.dll": "7A075997CEA3E0152CB74411FD841871FE12EC3DE49270C42101618F9148A0EB",
+    "AKD_Inject64.exe": "3C0407237473DF5055F94B3630D6421913BD0A786535D26918C0B4BD89AEBD96",
+    "AKD_Inject32.exe": "557E26736E152157C6E44AA397A4EDE52CE722E6C08071B1996DB8CD28D79A9F"
+  },
+  "changelog": [
+    "100% Reliable Custom Hotkeys: Custom hotkey remapping persists and operates across all PC environments with full section isolation.",
+    "Zero-Lag & Zero-Jitter Scroll: Eliminated text-jumping artifact via Card.OnPaintBackground clearing, double-buffered rendering, and synchronized WM_PAINT invalidation.",
+    "Smooth Wheel Response: Calibrated 32px wheel delta for high-precision tactile navigation without layout engine thrashing.",
+    "Perfect Top Bar Layout: Resized and repositioned Status Chip and Live Counter with 13px clean gutter, eliminating text truncation.",
+    "Subscription Card Bounds: Realigned license cards with 100% viewport containment, preventing edge clipping and scrollbar contention.",
+    "Sub-Millisecond Engine Pacing: 0.5000ms kernel timer with dynamic priority boosting on fire and click actions.",
+    "Authenticode Validated: Full digital signature attestation across all 6 executables and libraries."
+  ]
+}
