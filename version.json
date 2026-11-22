@@ -1,0 +1,29 @@
+{
+  "version": "6.0.0",
+  "version_tag": "v6.0.0",
+  "codename": "AKD AIM STUDIO ESPORTS PRO EDITION v6.0 - QUANTUM CYBER GLASS FINAL",
+  "release_date": "2026-11-22",
+  "min_supported_version": "1.0.0",
+  "mandatory": false,
+  "standalone_sha256": "0EFDA512C0A713A55F5DF8C69AC25D16AF885A4E34F69147E1C7C6984AD23042",
+  "setup_sha256": "BBF07D3DE42738491FB5E82E1248746B8DA9723F48EC0A9CFDB453E47B514714",
+  "components": {
+    "AKD_PC_SETTINGS.exe": "0EFDA512C0A713A55F5DF8C69AC25D16AF885A4E34F69147E1C7C6984AD23042",
+    "AKD_Setup.exe": "BBF07D3DE42738491FB5E82E1248746B8DA9723F48EC0A9CFDB453E47B514714",
+    "AKD.dll": "47540A6E923F28CC8E38F01325A33CE076B4CB065584172E24B6BF4CA31FA02C",
+    "AKD_x86.dll": "8F93067730CC454A6B1BE04F3072D93D79D7ED29E3820D4FECB07C3EDE980E1C",
+    "AKD_Inject64.exe": "CFA5CE277B774E29F909249FF7486374EE859B61B4BEB14AD0A9C76D5809B1D7",
+    "AKD_Inject32.exe": "4C76A77BECEA75DBC6E021197CBD55E656690307418625CF21B0A811270A769F",
+    "core.bin": "A4499002D3318590692247F97B45E7EC00A261BFFCE0826CFADC3D54743070D2"
+  },
+  "changelog": [
+    "Brand-New Futuristic Quantum Cyber Glass Theme: Neon Electric Cyan (#00F5FF) and Violet Horizon (#A855F7) palette replacing legacy red aesthetic with 0% style match.",
+    "Interactive 1-Click Animation Bypass: Top header [\u26a1 ANIM: ON / OFF] button for competitive players to disable all transitions for instant 0ms response.",
+    "Zero-Jitter Hardware Paced Scrolling: Integrated RedrawWindow + Suspend/Resume layout pacing eliminating text tearing, flickering, and wheel stutter.",
+    "High-Hz Display Pacing: 0.5000ms kernel timer resolution for 120Hz, 144Hz, 240Hz, 360Hz & 999 FPS monitor synchronization with microsecond precision.",
+    "Core i3 Low-Spec Compaction: Private memory footprint clamped to 1-8 MB with periodic working set compaction; zero lag on low-end systems.",
+    "Enhanced Free Fire Aim Lab: 1:1 MarkC linear slope + micro-tremor anti-shake curve for effortless vertical drag headshots without sensor noise.",
+    "100% Reliable Custom Hotkeys: Dual shared memory IPC, ProgramData/LocalAppData INI synchronization, and active key reflection across all emulator versions.",
+    "Official CN=AKD YT Authenticode Signed: Valid digital certificate on all 7 binaries with full Windows SmartScreen integrity."
+  ]
+}
