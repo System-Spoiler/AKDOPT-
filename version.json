@@ -1,0 +1,33 @@
+{
+    "version":  "7.1.0",
+    "version_tag":  "v7.1.0",
+    "codename":  "AKD AIM STUDIO v7.1 PRO ESPORTS EDITION",
+    "release_date":  "2026-11-26",
+    "min_supported_version":  "1.0.0",
+    "mandatory":  false,
+    "standalone_sha256":  "49A6BFA2FF7EF525AFBC0F921787684F0ACDF91AE865E79AA518BFFDE97C0F95",
+    "setup_sha256":  "12AC81E958676C5699B26C7E6F07FCF05F204B0B8F0B6F54CA6888C614B7005C",
+    "components":  {
+                       "AKD_PC_SETTINGS.exe":  "49A6BFA2FF7EF525AFBC0F921787684F0ACDF91AE865E79AA518BFFDE97C0F95",
+                       "AKD_Setup.exe":  "12AC81E958676C5699B26C7E6F07FCF05F204B0B8F0B6F54CA6888C614B7005C",
+                       "AKD.dll":  "503F62AF8503BCADC0F096390CD57B8F41C67F1217D5250CCFBAB64720E0D3EC",
+                       "AKD_x86.dll":  "20C02B1712B49BECF64B1F3366E474B955C9CE5F96B5584585060EBD351A0244",
+                       "AKD_Inject64.exe":  "9639F2039EC71E753740C9CDE28A28A3B322847A6392FE8F845B2CBD18BED6C5",
+                       "AKD_Inject32.exe":  "58BFF3C56E1FAA299DE84E375D683198A909DCF36048682D570E2113E98510FF",
+                       "version.dll":  "516BE7BDABAEFFE182E09085B52C13E3CED369DC1782CCF9B89AAA4619E7A0D8",
+                       "core.bin":  "524A8690D8B1CC7645A93F4D079EA799233522A081BB6E7E334E7EDC8F54FC37"
+                   },
+    "changelog":  [
+                      "HUD Meter Visibility, Hide/Unhide Sync \u0026 Late-Launch Binding: Fixed \u0027Already Active\u0027 with no meter, synced Home/custom hotkey across C++ AKD.dll and desktop fallback, and auto-show on late emulator launch.",
+                      "AimShake Controller \u0026 Stable Aim: Renamed mouse stabilizer \u0026 drag accuracy controls with zero-flicker live previews.",
+                      "100% Heavy-Load Smoothness (10-100 Players / Gloo Walls): Added MEMORY_PRIORITY_HIGH, D3DKMTSetProcessSchedulingPriorityClass REALTIME GPU scheduling, PowerThrottling disable, and Win32PrioritySeparation=0x26.",
+                      "Strict \u003c= 8 MB RAM \u0026 Zero Flicker with Animations ON: Added WM_ERASEBKGND suppression, cached pens/brushes, and 7 MB working-set clamp.",
+                      "Complete User Guide (nav0..nav14): Full documentation for every tab, button, hotkey, and feature in both StartupGuideDialog and Usage Guide.",
+                      "Honest Live Cloud Telemetry \u0026 Fair-Play Forensic Proof Report: Removed fake fallback numbers and bundled full forensic verification report."
+                  ],
+    "download_urls":  {
+                          "standalone_zip":  "https://raw.githubusercontent.com/System-Spoiler/AKDOPT-/main/AKD_Standalone_v7.1.zip",
+                          "setup_exe":  "https://raw.githubusercontent.com/System-Spoiler/AKDOPT-/main/AKD_Setup.exe",
+                          "main_exe":  "https://raw.githubusercontent.com/System-Spoiler/AKDOPT-/main/AKD_PC_SETTINGS.exe"
+                      }
+}
